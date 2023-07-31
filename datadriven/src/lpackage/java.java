@@ -1,0 +1,12 @@
+package lpackage;
+
+
+public class java 
+{
+	public static void main(String[] args)
+	{
+	System.out.println("WELCOME TO JAVA");
+	System.out.println("BASICS OF JAVA");
+
+	}
+}
